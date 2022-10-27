@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
   <b>Backend Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 🌱
+  <b>Tomorrow will shine brighter than today</b> ✨
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
